@@ -1,0 +1,15 @@
+#container {
+    height: 350px;
+    aspect-ratio: 1;
+}
+.pixel {
+    box-sizing: border-box;
+    border: 1px black solid;
+    aspect-ratio: 1;
+}
+.row {
+    display: flex;
+}
+.black {
+    background-color: black;
+}
